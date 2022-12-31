@@ -1,0 +1,10 @@
+main:
+  - name: About
+    url: '#about'
+    weight: 3
+  - name: Posts
+    url: /posts/
+    weight: 2
+  - name: Sitebook
+    url: /sitebook/
+    weight: 1
